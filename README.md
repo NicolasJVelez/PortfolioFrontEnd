@@ -1,3 +1,2 @@
 # PortfolioFrontEnd
-
-Esta es una prueba de la rama desarrollo
+Repositorio para el frontend
